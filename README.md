@@ -1,4 +1,7 @@
 # Articubot One - ROS 2 Mobile Robot Project
+# Abdi Wijaya Sasmita
+# 4222201044
+# Robotika Pagi B
 
 A comprehensive ROS 2 project featuring an articulated mobile robot with behavior tree-based navigation and control system.
 
